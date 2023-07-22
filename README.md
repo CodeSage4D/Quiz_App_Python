@@ -47,9 +47,8 @@ python main.py
 Open your web browser and navigate to http://localhost:5000 to access the Quiz App.
 
 # Licence
-Please adjust the URLs, file names, and other project-specific details accordingly. Make sure to replace `your-username` in the repository URL with your GitHub username. You can add additional sections to the `README.md` file if needed to provide more details about the project, installation, usage, and any other relevant information.
 
-# Author
+## Author
 The Quiz App was developed by 
 ## Karan Mishra.
 
